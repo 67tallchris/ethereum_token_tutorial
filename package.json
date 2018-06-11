@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/67tallchris/ethereum_token_tutorial/issues"
   },
-  "homepage": "https://github.com/67tallchris/ethereum_token_tutorial#readme"
+  "homepage": "https://github.com/67tallchris/ethereum_token_tutorial#readme",
+  "dependencies": {
+    "zeppelin-solidity": "1.10.0"
+  }
 }
